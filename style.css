@@ -59,7 +59,14 @@ body {
   .karosel_karta{
     width:600px;
     height: 770px;
-    background-color:#323a45;
+    background-color:#323a45;}
+
+    .karosel_karta2{
+      width:600px;
+      height: 833px;
+      background-color:#5faeb6;
+    }
+
   }
   .video_size {
     width: 100%;
@@ -71,6 +78,11 @@ body {
     width:350px;
     height: 450px;
     background-color:#323a45;
+  }
+  .karosel_karta2{
+    width:350px;
+    height: 470px;
+    background-color:#5faeb6;
   }
   .video_size {
    width: 100%;
