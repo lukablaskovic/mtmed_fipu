@@ -1,4 +1,4 @@
-# "Multimedia personal website"
+# "Osobna stranica iz multimedije"
 
 Osobna web stranica sa prikazima multimedijalnog sadržaja.
 
