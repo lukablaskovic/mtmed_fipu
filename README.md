@@ -1,6 +1,7 @@
 # "Osobna stranica iz multimedije"
 
 Osobna web stranica sa prikazima multimedijalnog sadržaja.
+https://lukablaskovic-fipu.netlify.app/
 
 ### Autori i zaduženja
 
