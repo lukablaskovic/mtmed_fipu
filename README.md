@@ -5,7 +5,7 @@ https://lukablaskovic-fipu.netlify.app/
 
 ### Autori i zaduženja
 
--   Luka Blašković (lblaskovi@unipu.hr) - izrada web sučelja u PHP-u, rad na bazi podataka
+-   Luka Blašković (lblaskovi@unipu.hr)
 
 ### Kratki opis funkcionalnosti
 - Projekt iz kolegija Multimedijalni sustavi koji se izvodi na Fakultetu informatike u Puli na prvoj godini.
@@ -19,4 +19,3 @@ https://lukablaskovic-fipu.netlify.app/
 [Fakultet informatike u Puli](https://fipu.unipu.hr/)  
 Multimedijalni sustavi, ak.god. 2019./2020.  
 Mentor: **Željka Tomašević** (https://www.unipu.hr/en/zeljka.milanovic, zeljka.tomasovic@unipu.hr)
-
